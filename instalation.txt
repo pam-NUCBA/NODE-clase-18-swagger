@@ -1,0 +1,14 @@
+instalar estas dependencias:
+    https://www.npmjs.com/package/swagger-jsdoc
+    https://www.npmjs.com/package/swagger-ui-express
+
+    swagger-jsdoc
+    swagger-ui-express
+
+*aclaración importante! usar la versión 6.0.0 del swaggerJS doc, excepto que quieran pasarse dos horas insultando la pantalla como hice yo *
+
+Sitio de swagger:
+    https://swagger.io/
+    https://swagger.io/specification/
+
+pueden registrarse con github!
